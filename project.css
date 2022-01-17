@@ -286,7 +286,7 @@ footer{
     #contact h1{
         font-size: 24px;
     }
-    a{
-    text-aline:center;
+    p a{
+  text-align: center;
     }
 }
